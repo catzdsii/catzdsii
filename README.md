@@ -31,9 +31,9 @@ I also like cats.
 ---
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=catzdsiishow_icons=true&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=catzdsii&layout=compact&theme=dark&hide_border=true)
 
 ---
 
@@ -44,9 +44,3 @@ I also like cats.
 - Cats
 
 ---
-
-## Goals
-- Build advanced homebrew for Nintendo DS systems
-- Create stable and optimized custom ROMs
-- Improve low-level and system programming knowledge
-
